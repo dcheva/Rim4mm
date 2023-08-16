@@ -15,7 +15,7 @@
     </li>
     <li>
       <key>Capturing</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>ShieldBelts</key>
@@ -31,7 +31,7 @@
     </li>
     <li>
       <key>GroupGotoHereDragging</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>BuildOrbitalTradeBeacon</key>
@@ -63,7 +63,7 @@
     </li>
     <li>
       <key>PrisonerTab</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>SetGrowingZonePlant</key>
@@ -163,15 +163,15 @@
     </li>
     <li>
       <key>SpoilageAndFreezers</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Deterioration</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>HostilityResponse</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>AllowedAreas</key>
@@ -179,7 +179,7 @@
     </li>
     <li>
       <key>MedicalOperations</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>TimeAssignments</key>
@@ -187,15 +187,15 @@
     </li>
     <li>
       <key>ManualWorkPriorities</key>
-      <value>0</value>
+      <value>0.5307429</value>
     </li>
     <li>
       <key>GettingMoreTraders</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>TileInspector</key>
-      <value>0.4811116</value>
+      <value>1</value>
     </li>
     <li>
       <key>Outfits</key>

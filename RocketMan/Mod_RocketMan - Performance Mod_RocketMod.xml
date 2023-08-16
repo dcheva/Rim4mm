@@ -7,463 +7,463 @@
 			<settings>
 				<li>
 					<typeId>RimWorld.Alert_MajorOrExtremeBreakRisk</typeId>
-					<avgT>0</avgT>
+					<avgT>0.3338629</avgT>
 				</li>
 				<li>
 					<ignore>True</ignore>
 					<typeId>RimWorld.Alert_Hypothermia</typeId>
-					<avgT>0</avgT>
+					<avgT>0.271716</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_ColonistNeedsRescuing</typeId>
-					<avgT>0</avgT>
+					<avgT>0.0111289</avgT>
 				</li>
 				<li>
 					<ignore>True</ignore>
 					<typeId>RimWorld.Alert_LifeThreateningHediff</typeId>
-					<avgT>0</avgT>
+					<avgT>0.3392414</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_FireInHomeArea</typeId>
-					<avgT>0</avgT>
+					<avgT>0.007689806</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_ImmobileCaravan</typeId>
-					<avgT>0</avgT>
+					<avgT>0.006158988</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_DisallowedBuildingInsideMonument</typeId>
-					<avgT>0</avgT>
+					<avgT>0.006728083</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_DormanyWakeUpDelay</typeId>
-					<avgT>0</avgT>
+					<avgT>0.005708153</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_InfestationDelay</typeId>
-					<avgT>0</avgT>
+					<avgT>0.005650378</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_CasketOpening</typeId>
-					<avgT>0</avgT>
+					<avgT>0.0057505</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_FuelNodeIgnition</typeId>
-					<avgT>0</avgT>
+					<avgT>0.005883524</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_HypothermicAnimals</typeId>
-					<avgT>0</avgT>
+					<avgT>0.005517551</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_MinorBreakRisk</typeId>
-					<avgT>0</avgT>
+					<avgT>0.5004419</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_BestowerWaiting</typeId>
-					<avgT>0</avgT>
+					<avgT>0.005596482</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_ReimplantationAvailable</typeId>
-					<avgT>0</avgT>
+					<avgT>0.01083304</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_NeedDefenses</typeId>
-					<avgT>0</avgT>
+					<avgT>0.005945346</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_QuestExpiresSoon</typeId>
-					<avgT>0</avgT>
+					<avgT>0.006506484</avgT>
 				</li>
 				<li>
 					<ignore>True</ignore>
 					<typeId>RimWorld.Alert_NeedDoctor</typeId>
-					<avgT>0</avgT>
+					<avgT>0.219762</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_NeedMiner</typeId>
-					<avgT>0</avgT>
+					<avgT>0.2306502</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_NeedWarden</typeId>
-					<avgT>0</avgT>
+					<avgT>0.006076869</avgT>
 				</li>
 				<li>
 					<ignore>True</ignore>
 					<typeId>RimWorld.Alert_LowFood</typeId>
-					<avgT>0</avgT>
+					<avgT>0.1259617</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_LowBabyFood</typeId>
-					<avgT>0</avgT>
+					<avgT>0.005507473</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_NoBabyFeeders</typeId>
-					<avgT>0</avgT>
+					<avgT>0.00586706</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_AbandonedBaby</typeId>
-					<avgT>0</avgT>
+					<avgT>0.005953103</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_NoBabyFoodCaravan</typeId>
-					<avgT>0</avgT>
+					<avgT>0.006086251</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_LowMedicine</typeId>
-					<avgT>0</avgT>
+					<avgT>0.1042695</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_NeedWarmClothes</typeId>
-					<avgT>0</avgT>
+					<avgT>0.3071434</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_NeedColonistBeds</typeId>
-					<avgT>0</avgT>
+					<avgT>0.229156</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_NeedBabyCribs</typeId>
-					<avgT>0</avgT>
+					<avgT>0.005580927</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_NeedSlaveBeds</typeId>
-					<avgT>0</avgT>
+					<avgT>0.005881267</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_NeedSlaveCribs</typeId>
-					<avgT>0</avgT>
+					<avgT>0.006715093</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_ColonistLeftUnburied</typeId>
-					<avgT>0</avgT>
+					<avgT>0.01195295</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_HunterLacksRangedWeapon</typeId>
-					<avgT>0</avgT>
+					<avgT>0.2373863</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_ColonistNeedsTend</typeId>
-					<avgT>0</avgT>
+					<avgT>0.2166164</avgT>
 				</li>
 				<li>
 					<ignore>True</ignore>
 					<typeId>RimWorld.Alert_StarvationColonists</typeId>
-					<avgT>0</avgT>
+					<avgT>0.2363022</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_Exhaustion</typeId>
-					<avgT>0</avgT>
+					<avgT>0.2153332</avgT>
 				</li>
 				<li>
 					<ignore>True</ignore>
 					<typeId>RimWorld.Alert_Heatstroke</typeId>
-					<avgT>0</avgT>
+					<avgT>0.01032293</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_PasteDispenserNeedsHopper</typeId>
-					<avgT>0</avgT>
+					<avgT>0.02083837</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_ActivatorCountdown</typeId>
-					<avgT>0</avgT>
+					<avgT>0.005649697</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_SlavesUnsuppressed</typeId>
-					<avgT>0</avgT>
+					<avgT>0.2230082</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_SlavesUnattended</typeId>
-					<avgT>0</avgT>
+					<avgT>0.01065282</avgT>
 				</li>
 				<li>
 					<ignore>True</ignore>
 					<typeId>RimWorld.Alert_Biostarvation</typeId>
-					<avgT>0</avgT>
+					<avgT>0.006076298</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_ToxicBuildup</typeId>
-					<avgT>0</avgT>
+					<avgT>0.005844235</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_PollutedTerrain</typeId>
-					<avgT>0</avgT>
+					<avgT>0.005532417</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_ColonistsIdle</typeId>
-					<avgT>0</avgT>
+					<avgT>0.01175087</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_TimedMakeFactionHostile</typeId>
-					<avgT>0</avgT>
+					<avgT>0.07840341</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_CaravanIdle</typeId>
-					<avgT>0</avgT>
+					<avgT>0.007144916</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_RoyalNoThroneAssigned</typeId>
-					<avgT>0</avgT>
+					<avgT>0.005767795</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_UndignifiedThroneroom</typeId>
-					<avgT>0</avgT>
+					<avgT>0.005930392</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_UndignifiedBedroom</typeId>
-					<avgT>0</avgT>
+					<avgT>0.005527022</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_TitleRequiresBedroom</typeId>
-					<avgT>0</avgT>
+					<avgT>0.216098</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_RoyalNoAcceptableFood</typeId>
-					<avgT>0</avgT>
+					<avgT>0.005566832</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_ThroneroomInvalidConfiguration</typeId>
-					<avgT>0</avgT>
+					<avgT>0.005687112</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_NeedMealSource</typeId>
-					<avgT>0</avgT>
+					<avgT>0.01143173</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_NeedJoySources</typeId>
-					<avgT>0</avgT>
+					<avgT>0.02490878</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_Boredom</typeId>
-					<avgT>0</avgT>
+					<avgT>0.01424972</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_NeedBatteries</typeId>
-					<avgT>0</avgT>
+					<avgT>0.01222367</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_NeedResearchProject</typeId>
-					<avgT>0</avgT>
+					<avgT>0.01026161</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_AwaitingMedicalOperation</typeId>
-					<avgT>0</avgT>
+					<avgT>0.01003273</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_BrawlerHasRangedWeapon</typeId>
-					<avgT>0</avgT>
+					<avgT>0.0122736</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_ShieldUserHasRangedWeapon</typeId>
-					<avgT>0</avgT>
+					<avgT>0.01574635</avgT>
 				</li>
 				<li>
 					<ignore>True</ignore>
 					<typeId>RimWorld.Alert_StarvationAnimals</typeId>
-					<avgT>0</avgT>
+					<avgT>0.2190881</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_BilliardsTableOnWall</typeId>
-					<avgT>0</avgT>
+					<avgT>0.007401021</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_ChessTableNoChairs</typeId>
-					<avgT>0</avgT>
+					<avgT>0.0089352</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_PokerTableNoChairs</typeId>
-					<avgT>0</avgT>
+					<avgT>0.008468798</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_CannotBeUsedRoofed</typeId>
-					<avgT>0</avgT>
+					<avgT>0.00830338</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_HunterHasShieldAndRangedWeapon</typeId>
-					<avgT>0</avgT>
+					<avgT>0.01681529</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_MonumentMarkerMissingBlueprints</typeId>
-					<avgT>0</avgT>
+					<avgT>0.006199959</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_ShuttleLandingBeaconUnusable</typeId>
-					<avgT>0</avgT>
+					<avgT>0.005998068</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_NeedMeditationSpot</typeId>
-					<avgT>0</avgT>
+					<avgT>0.005934557</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_UnusableMeditationFocus</typeId>
-					<avgT>0</avgT>
+					<avgT>0.005630592</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_AnimalFilth</typeId>
-					<avgT>0</avgT>
+					<avgT>0.0118457</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_AnimalPenNeeded</typeId>
-					<avgT>0</avgT>
+					<avgT>0.01565153</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_AnimalPenNotEnclosed</typeId>
-					<avgT>0</avgT>
+					<avgT>0.00787587</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_PredatorInPen</typeId>
-					<avgT>0</avgT>
+					<avgT>0.007650979</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_AnimalRoaming</typeId>
-					<avgT>0</avgT>
+					<avgT>0.0104767</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_PennedAnimalHungry</typeId>
-					<avgT>0</avgT>
+					<avgT>0.01433617</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_HitchedAnimalHungryNoFood</typeId>
-					<avgT>0</avgT>
+					<avgT>0.01007904</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_TimedRaidsArriving</typeId>
-					<avgT>0</avgT>
+					<avgT>0.04986121</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_SlaveRebellionLikely</typeId>
-					<avgT>0</avgT>
+					<avgT>0.009649375</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_RolesEmpty</typeId>
-					<avgT>0</avgT>
+					<avgT>0.0126146</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_AnimaLinkingReady</typeId>
-					<avgT>0</avgT>
+					<avgT>0.005705526</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_DateRitualComing</typeId>
-					<avgT>0</avgT>
+					<avgT>0.01992397</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_AgeReversalDemandNear</typeId>
-					<avgT>0</avgT>
+					<avgT>0.2111457</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_GauranlenTreeWithoutProductionMode</typeId>
-					<avgT>0</avgT>
+					<avgT>0.006104399</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_ConnectedPawnNotAssignedToPlantCutting</typeId>
-					<avgT>0</avgT>
+					<avgT>0.003473124</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_MinifiedTreeAboutToDie</typeId>
-					<avgT>0</avgT>
+					<avgT>0.054336</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_SubjectHasNowOverseer</typeId>
-					<avgT>0</avgT>
+					<avgT>0.002553759</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_WarqueenHasLowResources</typeId>
-					<avgT>0</avgT>
+					<avgT>0.005849266</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_LowHemogen</typeId>
-					<avgT>0</avgT>
+					<avgT>0.002416206</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_LowDeathrest</typeId>
-					<avgT>0</avgT>
+					<avgT>0.002448327</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_MechChargerFull</typeId>
-					<avgT>0</avgT>
+					<avgT>0.001465867</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_NeedMechChargers</typeId>
-					<avgT>0</avgT>
+					<avgT>0.001337748</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_NeedResearchBench</typeId>
-					<avgT>0</avgT>
+					<avgT>0.002059328</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_MechMissingBodyPart</typeId>
-					<avgT>0</avgT>
+					<avgT>0.001617187</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_ToxifierGeneratorStopped</typeId>
-					<avgT>0</avgT>
+					<avgT>0.001894124</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_PsychicBondedSeparated</typeId>
-					<avgT>0</avgT>
+					<avgT>0.005300356</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_MechDamaged</typeId>
-					<avgT>0</avgT>
+					<avgT>0.001887828</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_GenebankUnpowered</typeId>
-					<avgT>0</avgT>
+					<avgT>0.00235836</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_DeathrestComplete</typeId>
-					<avgT>0</avgT>
+					<avgT>0.002057447</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_TatteredApparel</typeId>
-					<avgT>0</avgT>
+					<avgT>0.2243303</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_UnhappyNudity</typeId>
-					<avgT>0</avgT>
+					<avgT>0.1048864</avgT>
 				</li>
 				<li>
 					<typeId>RimWorld.Alert_UnusableMeditationFocus+Alert_PermitAvailable</typeId>
-					<avgT>0</avgT>
+					<avgT>0.005552226</avgT>
 				</li>
 				<li>
 					<typeId>PipeSystem.Alert_NoStorage</typeId>
-					<avgT>0</avgT>
+					<avgT>0.004462338</avgT>
 				</li>
 				<li>
 					<typeId>DubsBadHygiene.Alert_ToxicFallout</typeId>
-					<avgT>0</avgT>
+					<avgT>0.005975066</avgT>
 				</li>
 				<li>
 					<typeId>DubsBadHygiene.Alert_BlockedSewer</typeId>
-					<avgT>0</avgT>
+					<avgT>0.004446003</avgT>
 				</li>
 				<li>
 					<typeId>DubsBadHygiene.Alert_WaterTemp</typeId>
-					<avgT>0</avgT>
+					<avgT>0.008442273</avgT>
 				</li>
 				<li>
 					<typeId>DubsBadHygiene.Alert_ContamLevels</typeId>
-					<avgT>0</avgT>
+					<avgT>0.01128217</avgT>
 				</li>
 				<li>
 					<typeId>DubsBadHygiene.Alert_ContaminatedTower</typeId>
-					<avgT>0</avgT>
+					<avgT>0.01770207</avgT>
 				</li>
 				<li>
 					<typeId>DubsBadHygiene.Alert_MissingPump</typeId>
-					<avgT>0</avgT>
+					<avgT>0.007527568</avgT>
 				</li>
 				<li>
 					<typeId>DubsBadHygiene.Alert_MissingWell</typeId>
-					<avgT>0</avgT>
+					<avgT>0.01069769</avgT>
 				</li>
 				<li>
 					<typeId>DubsBadHygiene.Alert_MissingTower</typeId>
-					<avgT>0</avgT>
+					<avgT>0.006266742</avgT>
 				</li>
 				<li>
 					<typeId>AllowTool.Alert_NoUrgentStorage</typeId>
-					<avgT>0</avgT>
+					<avgT>0.002248568</avgT>
 				</li>
 			</settings>
 		</protonSettings>
@@ -817,6 +817,8 @@
 				<li>
 					<job>SmoothFloor</job>
 					<version>2</version>
+					<throttleMode>Partial</throttleMode>
+					<throttleFilter>All</throttleFilter>
 				</li>
 				<li>
 					<job>VEF_AutoNutrition</job>
@@ -825,6 +827,8 @@
 				<li>
 					<job>Mate</job>
 					<version>2</version>
+					<throttleMode>None</throttleMode>
+					<throttleFilter>All</throttleFilter>
 				</li>
 				<li>
 					<job>CastAbilityOnThingMelee</job>
@@ -837,6 +841,7 @@
 				<li>
 					<job>RemoveFloor</job>
 					<version>2</version>
+					<throttleFilter>All</throttleFilter>
 				</li>
 				<li>
 					<job>IP_InsertFirstIngredient</job>
@@ -849,14 +854,20 @@
 				<li>
 					<job>CastAbilityOnWorldTile</job>
 					<version>2</version>
+					<throttleMode>None</throttleMode>
+					<throttleFilter>All</throttleFilter>
 				</li>
 				<li>
 					<job>HaulToCell</job>
 					<version>2</version>
+					<throttleMode>Partial</throttleMode>
+					<throttleFilter>All</throttleFilter>
 				</li>
 				<li>
 					<job>SmoothWall</job>
 					<version>2</version>
+					<throttleMode>Partial</throttleMode>
+					<throttleFilter>All</throttleFilter>
 				</li>
 				<li>
 					<job>IP_InsertSecondIngredient</job>
@@ -873,10 +884,14 @@
 				<li>
 					<job>HaulToContainer</job>
 					<version>2</version>
+					<throttleMode>Partial</throttleMode>
+					<throttleFilter>All</throttleFilter>
 				</li>
 				<li>
 					<job>Sow</job>
 					<version>2</version>
+					<throttleMode>Partial</throttleMode>
+					<throttleFilter>All</throttleFilter>
 				</li>
 				<li>
 					<job>IP_InsertThirdIngredient</job>
@@ -885,10 +900,14 @@
 				<li>
 					<job>Maintain</job>
 					<version>2</version>
+					<throttleMode>Partial</throttleMode>
+					<throttleFilter>All</throttleFilter>
 				</li>
 				<li>
 					<job>TakeInventory</job>
 					<version>2</version>
+					<throttleMode>None</throttleMode>
+					<throttleFilter>All</throttleFilter>
 				</li>
 				<li>
 					<job>Steal</job>
@@ -897,6 +916,8 @@
 				<li>
 					<job>Harvest</job>
 					<version>2</version>
+					<throttleMode>Partial</throttleMode>
+					<throttleFilter>All</throttleFilter>
 				</li>
 				<li>
 					<job>IP_RemoveProduct</job>
@@ -917,6 +938,8 @@
 				<li>
 					<job>HarvestDesignated</job>
 					<version>2</version>
+					<throttleMode>Partial</throttleMode>
+					<throttleFilter>All</throttleFilter>
 				</li>
 				<li>
 					<job>VFE_Mechanoids_RepairMachine</job>
@@ -937,6 +960,8 @@
 				<li>
 					<job>CutPlant</job>
 					<version>2</version>
+					<throttleMode>Partial</throttleMode>
+					<throttleFilter>All</throttleFilter>
 				</li>
 				<li>
 					<job>VFE_Mechanoids_AttachTurret</job>
@@ -953,10 +978,14 @@
 				<li>
 					<job>Rescue</job>
 					<version>2</version>
+					<throttleMode>None</throttleMode>
+					<throttleFilter>All</throttleFilter>
 				</li>
 				<li>
 					<job>CutPlantDesignated</job>
 					<version>2</version>
+					<throttleMode>Partial</throttleMode>
+					<throttleFilter>All</throttleFilter>
 				</li>
 				<li>
 					<job>VFE_Mechanoids_Recharge</job>
@@ -993,6 +1022,8 @@
 				<li>
 					<job>Capture</job>
 					<version>2</version>
+					<throttleMode>None</throttleMode>
+					<throttleFilter>All</throttleFilter>
 				</li>
 				<li>
 					<job>PrisonerExecution</job>
@@ -1029,6 +1060,8 @@
 				<li>
 					<job>RearmTurret</job>
 					<version>2</version>
+					<throttleMode>Partial</throttleMode>
+					<throttleFilter>All</throttleFilter>
 				</li>
 				<li>
 					<job>ReleasePrisoner</job>
@@ -1057,6 +1090,8 @@
 				<li>
 					<job>PlantSeed</job>
 					<version>2</version>
+					<throttleMode>Partial</throttleMode>
+					<throttleFilter>All</throttleFilter>
 				</li>
 				<li>
 					<job>VEF_UseDoorTeleporter</job>
@@ -1069,6 +1104,8 @@
 				<li>
 					<job>Refuel</job>
 					<version>2</version>
+					<throttleMode>Partial</throttleMode>
+					<throttleFilter>All</throttleFilter>
 				</li>
 				<li>
 					<job>TakeWoundedPrisonerToBed</job>
@@ -1097,6 +1134,8 @@
 				<li>
 					<job>Meditate</job>
 					<version>2</version>
+					<throttleMode>Partial</throttleMode>
+					<throttleFilter>All</throttleFilter>
 				</li>
 				<li>
 					<job>Reload</job>
@@ -1213,10 +1252,14 @@
 				<li>
 					<job>SocialRelax</job>
 					<version>2</version>
+					<throttleMode>None</throttleMode>
+					<throttleFilter>All</throttleFilter>
 				</li>
 				<li>
 					<job>HaulToTransporter</job>
 					<version>2</version>
+					<throttleMode>Partial</throttleMode>
+					<throttleFilter>All</throttleFilter>
 				</li>
 				<li>
 					<job>Shear</job>
@@ -1357,6 +1400,8 @@
 				<li>
 					<job>ClearSnow</job>
 					<version>2</version>
+					<throttleMode>Partial</throttleMode>
+					<throttleFilter>All</throttleFilter>
 				</li>
 				<li>
 					<job>ReleaseAnimalToWild</job>
@@ -1397,6 +1442,8 @@
 				<li>
 					<job>Flick</job>
 					<version>2</version>
+					<throttleMode>Partial</throttleMode>
+					<throttleFilter>All</throttleFilter>
 				</li>
 				<li>
 					<job>Replant</job>
@@ -1421,6 +1468,8 @@
 				<li>
 					<job>FinishFrame</job>
 					<version>2</version>
+					<throttleMode>Partial</throttleMode>
+					<throttleFilter>All</throttleFilter>
 				</li>
 				<li>
 					<job>ExtractRelic</job>
@@ -1441,6 +1490,8 @@
 				<li>
 					<job>Deconstruct</job>
 					<version>2</version>
+					<throttleMode>Partial</throttleMode>
+					<throttleFilter>All</throttleFilter>
 				</li>
 				<li>
 					<job>InstallRelic</job>
@@ -1453,6 +1504,7 @@
 				<li>
 					<job>Goto</job>
 					<version>2</version>
+					<throttleFilter>All</throttleFilter>
 				</li>
 				<li>
 					<job>FleeAndCower</job>
@@ -1461,6 +1513,8 @@
 				<li>
 					<job>Uninstall</job>
 					<version>2</version>
+					<throttleMode>Partial</throttleMode>
+					<throttleFilter>All</throttleFilter>
 				</li>
 				<li>
 					<job>ExtractToInventory</job>
@@ -1493,6 +1547,8 @@
 				<li>
 					<job>Follow</job>
 					<version>2</version>
+					<throttleMode>Partial</throttleMode>
+					<throttleFilter>All</throttleFilter>
 				</li>
 				<li>
 					<job>Resurrect</job>
@@ -1501,6 +1557,8 @@
 				<li>
 					<job>Repair</job>
 					<version>2</version>
+					<throttleMode>Partial</throttleMode>
+					<throttleFilter>All</throttleFilter>
 				</li>
 				<li>
 					<job>EnterBiosculpterPod</job>
@@ -1513,6 +1571,8 @@
 				<li>
 					<job>FollowClose</job>
 					<version>2</version>
+					<throttleMode>Partial</throttleMode>
+					<throttleFilter>All</throttleFilter>
 				</li>
 				<li>
 					<job>Insult</job>
@@ -1541,6 +1601,8 @@
 				<li>
 					<job>BuildRoof</job>
 					<version>2</version>
+					<throttleMode>Partial</throttleMode>
+					<throttleFilter>All</throttleFilter>
 				</li>
 				<li>
 					<job>RecolorApparel</job>
@@ -1561,6 +1623,7 @@
 				<li>
 					<job>RemoveRoof</job>
 					<version>2</version>
+					<throttleFilter>All</throttleFilter>
 				</li>
 				<li>
 					<job>DyeHair</job>
@@ -1573,6 +1636,7 @@
 				<li>
 					<job>GotoWander</job>
 					<version>2</version>
+					<throttleFilter>All</throttleFilter>
 				</li>
 				<li>
 					<job>OfferHelp</job>
@@ -1593,6 +1657,8 @@
 				<li>
 					<job>Wait</job>
 					<version>2</version>
+					<throttleMode>Partial</throttleMode>
+					<throttleFilter>All</throttleFilter>
 				</li>
 				<li>
 					<job>EmptyThingContainer</job>
@@ -1661,6 +1727,8 @@
 				<li>
 					<job>FeedPatient</job>
 					<version>2</version>
+					<throttleMode>None</throttleMode>
+					<throttleFilter>All</throttleFilter>
 				</li>
 				<li>
 					<job>SlaveEmancipation</job>
@@ -1693,6 +1761,7 @@
 				<li>
 					<job>Wait_Wander</job>
 					<version>2</version>
+					<throttleFilter>All</throttleFilter>
 				</li>
 				<li>
 					<job>TakeFromOtherInventory</job>
@@ -1701,6 +1770,8 @@
 				<li>
 					<job>DeliverFood</job>
 					<version>2</version>
+					<throttleMode>None</throttleMode>
+					<throttleFilter>All</throttleFilter>
 				</li>
 				<li>
 					<job>Hack</job>
@@ -1721,6 +1792,8 @@
 				<li>
 					<job>DoBill</job>
 					<version>2</version>
+					<throttleMode>Partial</throttleMode>
+					<throttleFilter>All</throttleFilter>
 				</li>
 				<li>
 					<job>CreateAndEnterCocoon</job>
@@ -1733,6 +1806,8 @@
 				<li>
 					<job>AttackStatic</job>
 					<version>2</version>
+					<throttleMode>None</throttleMode>
+					<throttleFilter>All</throttleFilter>
 				</li>
 				<li>
 					<job>Ignite</job>
@@ -1741,6 +1816,8 @@
 				<li>
 					<job>OperateDeepDrill</job>
 					<version>2</version>
+					<throttleMode>Partial</throttleMode>
+					<throttleFilter>All</throttleFilter>
 				</li>
 				<li>
 					<job>CreateAndEnterHealingPod</job>
@@ -1757,10 +1834,14 @@
 				<li>
 					<job>AttackMelee</job>
 					<version>2</version>
+					<throttleMode>None</throttleMode>
+					<throttleFilter>All</throttleFilter>
 				</li>
 				<li>
 					<job>BeatFire</job>
 					<version>2</version>
+					<throttleMode>None</throttleMode>
+					<throttleFilter>All</throttleFilter>
 				</li>
 				<li>
 					<job>OperateScanner</job>
@@ -1789,6 +1870,8 @@
 				<li>
 					<job>Clean</job>
 					<version>2</version>
+					<throttleMode>Partial</throttleMode>
+					<throttleFilter>All</throttleFilter>
 				</li>
 				<li>
 					<job>MergeIntoGaumakerPod</job>
@@ -1809,10 +1892,14 @@
 				<li>
 					<job>Ingest</job>
 					<version>2</version>
+					<throttleMode>Partial</throttleMode>
+					<throttleFilter>All</throttleFilter>
 				</li>
 				<li>
 					<job>Research</job>
 					<version>2</version>
+					<throttleMode>Partial</throttleMode>
+					<throttleFilter>All</throttleFilter>
 				</li>
 				<li>
 					<job>ChangeTreeMode</job>
@@ -1833,6 +1920,7 @@
 				<li>
 					<job>LayDown</job>
 					<version>2</version>
+					<throttleFilter>All</throttleFilter>
 				</li>
 				<li>
 					<job>Hunt</job>
@@ -1853,6 +1941,8 @@
 				<li>
 					<job>CastJump</job>
 					<version>2</version>
+					<throttleMode>None</throttleMode>
+					<throttleFilter>All</throttleFilter>
 				</li>
 				<li>
 					<job>LayDownAwake</job>
@@ -1877,6 +1967,8 @@
 				<li>
 					<job>CastAbilityOnThing</job>
 					<version>2</version>
+					<throttleMode>None</throttleMode>
+					<throttleFilter>All</throttleFilter>
 				</li>
 				<li>
 					<job>LayDownResting</job>
@@ -1885,6 +1977,8 @@
 				<li>
 					<job>Mine</job>
 					<version>2</version>
+					<throttleMode>Partial</throttleMode>
+					<throttleFilter>All</throttleFilter>
 				</li>
 				<li>
 					<job>VEF_LayExplodingEgg</job>

@@ -3269,3 +3269,18 @@ Unloading 0 Unused Serialized files (Serialized files now loaded: 3)
 Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 28071.
 Total: 345.306600 ms (FindLiveObjects: 1.424000 ms CreateObjectMapping: 1.832500 ms MarkObjects: 341.992900 ms  DeleteObjects: 0.056400 ms)
 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 3)
+UnloadTime: 0.270900 ms
+
+Unloading 5402 unused Assets to reduce memory usage. Loaded Objects now: 26710.
+Total: 998.504500 ms (FindLiveObjects: 1.609700 ms CreateObjectMapping: 2.429200 ms MarkObjects: 988.016100 ms  DeleteObjects: 6.449100 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 3)
+
+Unloading 512 unused Assets to reduce memory usage. Loaded Objects now: 31815.
+Total: 1090.334300 ms (FindLiveObjects: 1.795600 ms CreateObjectMapping: 2.471500 ms MarkObjects: 1085.358600 ms  DeleteObjects: 0.708300 ms)
+
+Setting up 3 worker threads for Enlighten.
+  Thread -> id: 20e8 -> priority: 1 
+  Thread -> id: 19e4 -> priority: 1 
+  Thread -> id: 2408 -> priority: 1 
