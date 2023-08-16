@@ -1,0 +1,30 @@
+Mono path[0] = 'C:/Games/RimWorld 1.4/RimWorldWin64_Data/Managed'
+Mono config path = 'C:/Games/RimWorld 1.4/MonoBleedingEdge/etc'
+Initialize engine version: 2019.4.30f1 (e8c891080a1f)
+[Subsystems] Discovering subsystems at path C:/Games/RimWorld 1.4/RimWorldWin64_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1660 (ID=0x2184)
+    Vendor:   
+    VRAM:     5980 MB
+    Driver:   31.0.15.3640
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.097 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.838800 ms
+RimWorld 1.4.3704 rev886
+Translation data for language Russian / Русский has 47 errors. Generate translation report for more info. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 3)
+
+Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 19111.
+Total: 204.677500 ms (FindLiveObjects: 0.769800 ms CreateObjectMapping: 1.010000 ms MarkObjects: 202.817400 ms  DeleteObjects: 0.079900 ms)
+
+Setting up 3 worker threads for Enlighten.
+  Thread -> id: f20 -> priority: 1 
+  Thread -> id: 11ec -> priority: 1 
+  Thread -> id: 1eb8 -> priority: 1 
