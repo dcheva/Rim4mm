@@ -23,7 +23,7 @@
     </li>
     <li>
       <key>InteractingWithTraders</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Drafting</key>
@@ -107,11 +107,11 @@
     </li>
     <li>
       <key>Forbidding</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>GrowingFood</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>EquippingWeapons</key>
@@ -131,11 +131,11 @@
     </li>
     <li>
       <key>ForbiddingDoors</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>CoverAndShooting</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>FormCaravan</key>
@@ -143,15 +143,15 @@
     </li>
     <li>
       <key>AnimalTaming</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>AnimalTraining</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>InfoCard</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>StorageTab</key>
@@ -231,7 +231,7 @@
     </li>
     <li>
       <key>SwitchFlickingDesignation</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>MaxNumberOfPlayerSettlements</key>

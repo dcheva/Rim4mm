@@ -456,13 +456,6 @@
     </value>
   </li>
   <li>
-    <key>TG_SlaveMenu</key>
-    <value>
-      <keyBindingA>LeftControl</keyBindingA>
-      <keyBindingB>S</keyBindingB>
-    </value>
-  </li>
-  <li>
     <key>VFE_Dev_Restart</key>
     <value>
       <keyBindingA>None</keyBindingA>
@@ -508,55 +501,6 @@
     <key>Dev_QuickGoToConfigPawnPage</key>
     <value>
       <keyBindingA>None</keyBindingA>
-      <keyBindingB>None</keyBindingB>
-    </value>
-  </li>
-  <li>
-    <key>MintMenus_BuildMenu</key>
-    <value>
-      <keyBindingA>None</keyBindingA>
-      <keyBindingB>None</keyBindingB>
-    </value>
-  </li>
-  <li>
-    <key>MintMenus_MintResearch</key>
-    <value>
-      <keyBindingA>None</keyBindingA>
-      <keyBindingB>None</keyBindingB>
-    </value>
-  </li>
-  <li>
-    <key>MintMenus_MintWheel</key>
-    <value>
-      <keyBindingA>None</keyBindingA>
-      <keyBindingB>None</keyBindingB>
-    </value>
-  </li>
-  <li>
-    <key>MintMenus_MintBillMenu</key>
-    <value>
-      <keyBindingA>None</keyBindingA>
-      <keyBindingB>None</keyBindingB>
-    </value>
-  </li>
-  <li>
-    <key>MintMenus_PinningHide</key>
-    <value>
-      <keyBindingA>None</keyBindingA>
-      <keyBindingB>None</keyBindingB>
-    </value>
-  </li>
-  <li>
-    <key>MintMenus_MintGearMenu</key>
-    <value>
-      <keyBindingA>None</keyBindingA>
-      <keyBindingB>None</keyBindingB>
-    </value>
-  </li>
-  <li>
-    <key>Blueprint_Flip</key>
-    <value>
-      <keyBindingA>F</keyBindingA>
       <keyBindingB>None</keyBindingB>
     </value>
   </li>
@@ -624,6 +568,118 @@
     </value>
   </li>
   <li>
+    <key>RocketKeyBindingDisable</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>RocketKeyToggleAlerts</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>RocketKeyToggleDebugging</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>RocketKeyToggleForcedSlowdowns</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>ColonistSelectionKeys_Help</key>
+    <value>
+      <keyBindingA>K</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>ColonistSelectionKeys_Release</key>
+    <value>
+      <keyBindingA>Alpha0</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>ColonistSelectionKeys_Group1</key>
+    <value>
+      <keyBindingA>Alpha6</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>ColonistSelectionKeys_Group2</key>
+    <value>
+      <keyBindingA>Alpha7</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>ColonistSelectionKeys_Group3</key>
+    <value>
+      <keyBindingA>Alpha8</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>ColonistSelectionKeys_Group4</key>
+    <value>
+      <keyBindingA>Alpha9</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>ColonistSelectionKeys_Group5</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>ColonistSelectionKeys_Group6</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>ColonistSelectionKeys_CenterOnColony</key>
+    <value>
+      <keyBindingA>Backspace</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>MintMenus_MiniMap</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>MintMenus_PingTool</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>MainTab_MedicalTab</key>
+    <value>
+      <keyBindingA>M</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
     <key>HotkeyEditor</key>
     <value>
       <keyBindingA>None</keyBindingA>
@@ -634,6 +690,62 @@
     <key>HotkeyTeleport</key>
     <value>
       <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>TG_SlaveMenu</key>
+    <value>
+      <keyBindingA>LeftControl</keyBindingA>
+      <keyBindingB>S</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>MintMenus_BuildMenu</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>MintMenus_MintResearch</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>MintMenus_MintWheel</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>MintMenus_MintBillMenu</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>MintMenus_PinningHide</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>MintMenus_MintGearMenu</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>Blueprint_Flip</key>
+    <value>
+      <keyBindingA>F</keyBindingA>
       <keyBindingB>None</keyBindingB>
     </value>
   </li>
